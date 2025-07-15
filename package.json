@@ -12,4 +12,12 @@
     "build": "vite build",
     "preview": "vite preview"
   }
+  {
+  "name": "my_package",
+  "version": "1.0.0",
+  "dependencies": {
+    "my_dep": "^1.0.0",
+    "another_dep": "~2.2.0"
+  }
+}
 }
