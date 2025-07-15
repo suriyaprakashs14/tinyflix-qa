@@ -12,4 +12,8 @@
     "build": "vite build",
     "preview": "vite preview"
   }
+
+
+  npm install <pacKage.json> 
+
 }
